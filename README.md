@@ -1,6 +1,6 @@
 # Pokédex
 
-This is a Pokédex app for an academic mobile development assignement. It allows the user to browse the entire Pokémon catalog and view Pokémon's detailed information such as description, base stats and evolution. Currently tested only on Android.
+This is a Pokédex app for an academic mobile development assignement made using The Clean Architecture. It allows the user to browse the entire Pokémon catalog and view Pokémon's detailed information such as description, base stats and evolution. Currently tested only on Android.
 
 # Pokémon datasource
 
