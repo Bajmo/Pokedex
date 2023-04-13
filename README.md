@@ -1,6 +1,6 @@
 # Pokédex
 
-This is a Pokédex app for an academic mobile development assignement. It allows the user to browse the entire Pokémon catalog and view Pokémon's detailed information such as description, base stats and evolution.
+This is a Pokédex app for an academic mobile development assignement. It allows the user to browse the entire Pokémon catalog and view Pokémon's detailed information such as description, base stats and evolution. Currently tested only on Android.
 
 # Pokémon datasource
 
@@ -30,20 +30,20 @@ flutter run
 # Previews
 
 <p align="center">
-  <img src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20grid.jpeg?raw=true">
+  <img width=300 src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20grid.jpeg?raw=true">
 </p>
 <p align="center">
-  <img src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Search%20bar.jpeg?raw=true">
+  <img width=300 src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Search%20bar.jpeg?raw=true">
 </p>
 <p align="center">
-  <img src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20detail.jpeg?raw=true">
+  <img width=300 src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20details.jpeg?raw=true">
 </p>
 <p align="center">
-  <img src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20detail%20-%20About.jpeg?raw=true">
+  <img width=300 src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20details%20-%20About.jpeg?raw=true">
 </p>
 <p align="center">
-  <img src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20detail%20-%20Stats.jpeg?raw=true">
+  <img width=300 src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20details%20-%20Base stats.jpeg?raw=true">
 </p>
 <p align="center">
-  <img src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20detail%20-%20Evolution.jpeg?raw=true">
+  <img width=300 src="https://github.com/Bajmo/Pokedex/blob/master/assignement/Pokémon%20details%20-%20Evolution.jpeg?raw=true">
 </p>
